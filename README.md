@@ -1,170 +1,132 @@
 <div align="center">
 
-<!-- HEADER -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Senior+Data+Engineer+%7C+7%2B+Years+of+Experience;Building+Scalable+Data+Platforms+%26+Pipelines" alt="Typing SVG" />
-</a>
+<!-- Typing SVG animé -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Senior+Data+Engineer+%7C+7.5%2B+Years+Experience;Building+Scalable+Data+Platforms+for+Enterprise;Python+%C2%B7+PySpark+%C2%B7+Databricks+%C2%B7+dbt+%C2%B7+Azure+%C2%B7+AWS)](https://git.io/typing-svg)
 
-<br/>
+</div>
 
-<!-- AVAILABILITY BADGE -->
-<img src="https://img.shields.io/badge/%F0%9F%9F%A2_Available_for_Freelance_Work-00C853?style=for-the-badge&labelColor=00C853" alt="Available for Freelance" />
+<div align="center">
 
-<br/><br/>
+🟢 **Available for Freelance Projects** — [Contact me](mailto:moussa.diakite1304@gmail.com)
 
-<!-- PROFILE VIEWS & FOLLOWERS -->
-<img src="https://komarev.com/ghpvc/?username=moussadiakite&style=for-the-badge&color=0ea5e9" alt="Profile Views" />
-&nbsp;
-<a href="https://github.com/moussadiakite?tab=followers">
-  <img src="https://img.shields.io/github/followers/moussadiakite?style=for-the-badge&color=0ea5e9&labelColor=1a1b27" alt="Followers" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moussa_DIAKITE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moussa-diakite/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moussa.diakite1304@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=moussadiakite&style=for-the-badge&color=blue)](https://github.com/moussadiakite)
 
 </div>
 
 ---
 
-## &nbsp;About Me
+## 👤 About Me
 
-```yaml
-name: Moussa Diakite
-role: Senior Data Engineer
-experience: 7+ years
-focus: Scalable Data Platforms, ETL/ELT Pipelines, Cloud Architecture
-location: Available Worldwide (Remote)
-status: Open to freelance contracts & consulting
+I'm a Senior Data Engineer with **7.5+ years of experience** designing and operating production-grade data platforms across diverse industries. I've delivered high-impact data solutions for **Sodexo** (Food), **Engie** (Energy), **Criteo** (AdTech), and **Amadeus** (Travel) — building scalable pipelines that process terabytes of data daily. My core expertise lies in **medallion architecture**, **lakehouse design**, and **cloud-native data infrastructure** on Azure and AWS. I also teach **Cloud Computing & Big Data** at EDC Paris Business School, combining hands-on engineering with a passion for knowledge sharing.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**Data Engineering**
+
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=for-the-badge&logo=delta&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Apache Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
+
+**Cloud Platforms**
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Monitoring & BI**
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moussadiakite&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moussadiakite&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moussadiakite&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**spark-medallion-pipeline**](https://github.com/moussadiakite/spark-medallion-pipeline) | Production-grade Medallion Architecture (Bronze/Silver/Gold) with Delta Lake for energy metering data | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=flat-square&logo=delta&logoColor=white) |
+| [**dbt-analytics-engineering**](https://github.com/moussadiakite/dbt-analytics-engineering) | Complete dbt project for food service analytics — staging/intermediate/marts modeling with 40+ tests and custom macros | ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| [**databricks-toolkit**](https://github.com/moussadiakite/databricks-toolkit) | CLI toolkit to manage Databricks jobs, clusters, notebooks and scaffold data projects from the terminal | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) |
+| [**cloud-data-platform-iac**](https://github.com/moussadiakite/cloud-data-platform-iac) | Reusable Terraform modules for data platforms on Azure (Databricks, ADLS) and AWS (S3, Glue, Lambda) | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) |
+
+</div>
+
+---
+
+## 💼 Professional Journey
+
+```mermaid
+timeline
+    title Career Timeline
+    2018-2021 : Amadeus (Travel)
+              : Backend Software Engineer
+              : C++ · Python · REST APIs
+    2021-2022 : Criteo (AdTech)
+              : Data Engineer
+              : Spark · Hadoop · Python
+    2022-2024 : Sodexo (Food)
+              : Senior Data Engineer
+              : Databricks · dbt · Azure
+    2023-2024 : EDC Paris
+              : Part-time Teacher
+              : Cloud · Big Data
+    2024-2025 : Engie (Energy)
+              : Senior Data Engineer
+              : AWS · PySpark · Terraform
+    2025-Now  : Sodexo (Food)
+              : Senior Data Engineer
+              : Azure · Docker · Streamlit
 ```
 
-I design and build **production-grade data platforms** that handle terabytes of data reliably. From raw ingestion to analytics-ready warehouses, I architect end-to-end solutions using modern data stack tools across **Azure** and **AWS** ecosystems.
-
-**What I bring to the table:**
-
-- Architecting **lakehouse solutions** on Databricks with Delta Lake
-- Building robust **ETL/ELT pipelines** with PySpark and dbt
-- Designing **data warehouse models** optimized for analytical workloads
-- Implementing **CI/CD for data** with automated testing and monitoring
-- Migrating legacy systems to **cloud-native architectures**
-
 ---
 
-## &nbsp;Tech Stack
-
 <div align="center">
 
-### Languages & Frameworks
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
-<img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="Scala" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+### 💼 Let's Work Together
 
-### Data Engineering & Analytics
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
-<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
-<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow" />
-<img src="https://img.shields.io/badge/Delta_Lake-003366?style=for-the-badge&logo=delta&logoColor=white" alt="Delta Lake" />
+I'm available for freelance missions in **data infrastructure**, **pipeline development**,
+**cloud architecture**, and **data platform scaling** for enterprise clients.
 
-### Cloud Platforms
-<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="ADF" />
-<img src="https://img.shields.io/badge/Azure_Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Synapse" />
-<img src="https://img.shields.io/badge/AWS_Glue-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Glue" />
-<img src="https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white" alt="Redshift" />
-
-### Databases & Storage
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="S3" />
-<img src="https://img.shields.io/badge/Azure_Blob-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Blob" />
-
-### DevOps & Tools
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
-
-</div>
-
----
-
-## &nbsp;GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moussadiakite&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moussadiakite&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=0ea5e9&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moussadiakite&theme=tokyonight&hide_border=true&background=1a1b27&stroke=0ea5e9&ring=0ea5e9&fire=FF6B6B&currStreakLabel=0ea5e9&sideLabels=0ea5e9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moussadiakite&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=0ea5e9&line=0ea5e9&point=FF6B6B&area=true&area_color=0ea5e9" alt="Contribution Graph" />
-</div>
-
----
-
-## &nbsp;Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/moussadiakite/lakehouse-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=moussadiakite&repo=lakehouse-platform&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9" alt="Lakehouse Platform" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/moussadiakite/spark-etl-framework">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=moussadiakite&repo=spark-etl-framework&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9" alt="Spark ETL Framework" />
-</a>
-
-<a href="https://github.com/moussadiakite/dbt-data-warehouse">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=moussadiakite&repo=dbt-data-warehouse&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9" alt="dbt Data Warehouse" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/moussadiakite/azure-data-pipeline">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=moussadiakite&repo=azure-data-pipeline&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9" alt="Azure Data Pipeline" />
-</a>
-
-</div>
-
----
-
-## &nbsp;Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/moussa-diakite/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="mailto:moussa.diakite1304@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-&nbsp;
-<a href="tel:+33762917932">
-  <img src="https://img.shields.io/badge/+33_762_917_932-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" />
-</a>
-&nbsp;
-<a href="https://calendly.com/moussa-diakite1304/introduction-call-1">
-  <img src="https://img.shields.io/badge/Book_a_Call-006BFF?style=for-the-badge&logo=googlemeet&logoColor=white" alt="Book a Call" />
-</a>
-
-<br/><br/>
-
-**Open to freelance data engineering contracts, consulting, and technical advisory roles.**
-<br/>
-**Let's build your next data platform together.**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=80&section=footer" width="100%" />
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moussa-diakite/)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moussa.diakite1304@gmail.com)
 
 </div>
