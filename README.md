@@ -141,19 +141,19 @@ I design and build **production-grade data platforms** that handle terabytes of 
 
 <div align="center">
 
-<a href="https://linkedin.com/in/moussadiakite">
+<a href="https://www.linkedin.com/in/moussa-diakite/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="mailto:moussa.diakite@email.com">
+<a href="mailto:moussa.diakite1304@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 &nbsp;
-<a href="https://moussadiakite.dev">
-  <img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=safari&logoColor=0ea5e9" alt="Website" />
+<a href="tel:+33762917932">
+  <img src="https://img.shields.io/badge/+33_762_917_932-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" />
 </a>
 &nbsp;
-<a href="https://calendly.com/moussadiakite">
+<a href="https://calendly.com/moussa-diakite1304/introduction-call-1">
   <img src="https://img.shields.io/badge/Book_a_Call-006BFF?style=for-the-badge&logo=googlemeet&logoColor=white" alt="Book a Call" />
 </a>
 
